@@ -2,4 +2,4 @@
 #It has some code
 #This is the first version
 
-print("version control is great")
+print("version control is pretty good")
